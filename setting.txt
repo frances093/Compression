@@ -1,0 +1,12 @@
+set_level_limit 180
+set_pattern_bits 4
+set_graph_type 1
+set_floor_range 3 7
+set_not_encode_bits 3 9
+set_data_rearrange 0 50
+set_px_mode 3
+set_iteration_type 4
+set_shift_block 0
+set_middle_type 1
+set_fix_level_bit false
+set_split_type 3
