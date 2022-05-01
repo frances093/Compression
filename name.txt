@@ -1,0 +1,6 @@
+../Min/s5378f.vec
+../Min/s9234f.vec
+../Min/s13207.vec
+../Min/s15850.vec
+../Min/s38417.vec
+../Min/s38584.vec
